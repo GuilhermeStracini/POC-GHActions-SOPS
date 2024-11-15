@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: PoC GHACtions SOPS
+description: 🔬 Proof of Concept of using SOPS with GIT to encrypt secrets
+show_downloads: true
